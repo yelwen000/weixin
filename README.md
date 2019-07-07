@@ -1,2 +1,0 @@
-# weixin
-WeChat public account
